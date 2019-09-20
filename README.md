@@ -20,4 +20,10 @@ Per tal que tot funcione cal instal·lar `LaTeX` i `Pandoc`.
 sudo apt install texlive pandoc
 ```
 
+Es pot baixar el repositori comprimit `.zip` o bé clonar el repositori `git clone https://github.com/inclusa/ctic.git`.
+
+Cal donar permisos d'execució a l'script per tal que funcione `sudo chmod +x beamer.sh`.
+
+Així escriurem el codi font del fitxer i el compil·larem executant al terminal `.beamer.sh`.
+
 El producte es distribueix amb una llicència Creative Commons Comparir Igual 4.0.
