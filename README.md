@@ -1,2 +1,4 @@
-# ctic
-Materials de coordinació TIC
+# Coordinació TIC
+
+En aquest repositori trobareu materials de coordinació TIC.
+
