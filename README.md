@@ -26,4 +26,6 @@ Cal donar permisos d'execució a l'script per tal que funcione `sudo chmod +x be
 
 Així escriurem el codi font del fitxer i el compil·larem executant al terminal `.beamer.sh`.
 
+Al final obtindrem un arxiu en format PDF, el qual es podrà projectar i executar com una presentació a pantalla completa. Es poden passar els slides avant i arrere amb les fletxes.
+
 El producte es distribueix amb una llicència Creative Commons Comparir Igual 4.0.
