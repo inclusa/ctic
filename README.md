@@ -4,6 +4,8 @@ En aquest repositori trobareu materials de coordinació TIC.
 
 ## 1. Slides sobre les instruccions de principi de curs 2019-2020
 
+Lloc: `/src/slides_instrurccions`
+
 L'arxiu `slides.pdf` conté una presentació en format PDF creada amb LaTeX mitjançant la utilitat `pandoc`.
 
 L'arxiu `slides.md` conté el codi font.
@@ -33,6 +35,8 @@ Al final obtindrem un arxiu en format PDF, el qual es podrà projectar i executa
 El producte es distribueix amb una llicència Creative Commons Comparir Igual 4.0.
 
 ## 2. Diagnòstic TIC del centre
+
+Lloc: `/src/diagnostic_tic/`
 
 Es tracta d'un arxiu que es pot importar a Moodle com a qüestionari per tal de fer el diagnòstic inicial TIC del centre.
 

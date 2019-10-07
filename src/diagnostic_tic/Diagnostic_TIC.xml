@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1016636  -->
+  <question type="multichoice">
+    <name>
+      <text>01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>1. Àrea d'Informació i Alfabetització Informacional</h3><p><br></p><h4>Competència 1.1. Navegació, cerca i filtratge d'informació</h4><p><br></p><pre>Buscar informació, dades i continguts digitals en xarxa, i accedir-hi, expressar de manera organitzada les necessitats d'informació, trobar informació rellevant per les tasques docents, seleccionar recursos educatius de manera eficaç, gestionar diferents fonts d'informació, crear estratègies personals d'informació.</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Faig ús del cercador escrivint la paraula o paraules que vull trobar.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Utilitze les ferramentes de filtrat que posa a la meua disposició el navegador web.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Cerque informació amb criteris específics per tal de trobar no sols la informació sinó aquesta informació amb el suport adient (pdf, mp3, mp4, bibliografia, etc.).<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No utilitze el navegador per a res.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016714  -->
+  <question type="multichoice">
+    <name>
+      <text>02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h5></h5><h4></h4><h3>1. Àrea d'Informació i Alfabetització Informacional<br></h3><br><h4>Competència 1.2. Avaluació d'informació, dades i continguts digitals.</h4><p><br></p><pre>Reunir, processar, comprendre i avaluar informació, dades i continguts digitals de forma crítica.<br></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Sé que hi ha molta informació i recursos docents per internet, però no tot és fiable. Sovint realitze una avaluació de les webs per valorar si les tinc en compte en el futur.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Conec les llicències de reutilització dels continguts generats les tinc en compte a l'hora de fer servir qualsevol tipus de material.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sóc crític amb la informació que trobe per internet. Tinc una estratègia definida per avaluar o referenciar el contingut per tal de classificar-lo i accedir de forma més eficient a ell.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Normalment em crec tot el que cerque per internet.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016842  -->
+  <question type="multichoice">
+    <name>
+      <text>03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h4></h4><h3>1. Àrea d'Informació i Alfabetització Informacional<br></h3><br><h4>Competència 1.3. Emmagatzematge i recuperació d'informació, dades i continguts digitals.</h4><p><br></p><pre>Gestionar i emmagatzemar informació, dades i continguts digitals per facilitar la seva recuperació; organitzar informació, dades i continguts digitals.<br></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Et sents capaç d'organitzar els recursos docents, tot i que ets conscient de que no controles els dispositius ni possibilitats.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Saps guardar i etiquetar arxius, continguts i informació i fins la teua pròpia estratègia de magatzemament. Saps recuperar i gestionar la informació i els continguts que has guardat.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Dispose d'una estratègia social, connectat a experts, companys i alumnes
+ a través de medis digitals, amb mètodes adients per organitzar, 
+emmagatzemar i recuperar informació per a l'ús educatiu.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Informació i Alfabetització Informacional sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sóc capaç d'organitzar el recursos docents que trobe per internet.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016850  -->
+  <question type="multichoice">
+    <name>
+      <text>04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Àrea de Comunicació i Col·laboració</h3><p><br></p><h4>
+
+Competència 2.1. Interacció mitjançant les tecnologia digitals <br></h4><p><br></p><pre>Interaccionar per mitjà de diversos dispositius i aplicacions digitals, entendre com es distribueix, presenta i gestiona la comunicació digital, comprendre l'ús adequat de les diferents formes de comunicació a través de mitjans digitals, contemplar diferents formats de comunicació, adaptar estratègies i maneres de comunicar cació a destinataris específics.</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text>Interactues amb els companys, els alumnes, les famílies i l'administració utilitzant les característiques bàsiques de les ferramentes de comunicació.</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text>Et comuniques sense dificultat utilitzant diverses aplicacions i serveis de comunicació digital tant de manera síncrona (en el moment) com asíncrona (de forma diferida). Selecciones el medi més adient en funció dels teus interessos i necessitats com a docent.</text>
+      <feedback format="html">
+        <text>Comunicació i Col·laboració avançada</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Uses una àmplia gamma d'aplicacions i serveis d'interacció i comunicació digital, de tipologia variada, i tens una estratègia de selecció combinada d'ús de les mateixes, que adapta s'adapta en funció de la naturalesa de la interacció i la comunicació digital que necessites en el moment, o que necessiten els teus interlocutors.</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No interactue amb ningú si he d'utilitzar ferramentes de comunicació digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016858  -->
+  <question type="multichoice">
+    <name>
+      <text>05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Àrea de Comunicació i Col·laboració</h3><p><br></p><h4>Competència 2.2. Compartir Informació i Continguts Digitals</h4><p><br></p><p>Compartir la ubicació de la informació i dels continguts digitals trobats, estar disposat i ser capaç de compartir coneixement, continguts i recursos, actuar com a intermediari, ser proactiu en la difusió de notícies, continguts i recursos, conèixer les pràctiques de citació i referències i integrar nova informació en el conjunt de coneixements existents.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Comparteixes arxius i continguts a través de medis tecnològics senzills.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Participa en xarxes socials y comunicacions en línia, en les que es transmet o comparteixen coneixements, continguts o informació<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Comparteix de forma activa informació, continguts i recursos a través de comunitats en línia, xarxes i plataformes de col·laboració<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No compartisc cap contingut digital amb ningú.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016890  -->
+  <question type="multichoice">
+    <name>
+      <text>06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Àrea de Comunicació i Col·laboració</h3><p><br></p><h4>Competència 2.3. Participació ciutadana en línia</h4><p><br></p><pre>Implicar-se amb la societat mitjançant la participació en línia, buscar oportunitats tecnològiques per a l'apoderament i el auto-desenvolupament pel que fa a les tecnologies i als entorns digitals, ser conscient del potencial de la tecnologia per a la participació ciutadana.</pre><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Saps que la tecnologia es pot utilitzar per a interactuar amb diferents serveis i fas un ús passiu d'alguns, en l'àmbit educatiu.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Utilitza activament alguns aspectes de nivell medi dels serveis en línia per a la professió docent (per exemple, seus electròniques, sistemes de gestió educativa, etc.).<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ets un usuari habitual i actiu per la comunicació i participació en línia en qualsevol tipus d'acció social, política, cultural, administrativa. Participes i expresses opinions en distints espais virtuals educatius. Desenvolupes projectes i activitats per formar l'alumnat en la ciutadania digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sé per a què puc utilitzar la tecnologia la majoria de les vegades. No faig ús habitual d'ella per comunicar-me.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016914  -->
+  <question type="multichoice">
+    <name>
+      <text>07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Comunicació i Col·laboració</h3><p><br></p><h4>Competència 2.4. Col·laboració mitjançant canals digitals</h4><p><br></p><pre>Utilitzar tecnologies i mitjans per al treball en equip, per als processos col·laboratius i per a la creació i construcció comuna de recursos, coneixements i continguts.<br></pre><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Col·labores, de forma molt senzilla, usant recursos i aplicacions digitals que permeten el treball en equip, amb els altres docents per a l'intercanvi d'arxius o la creació de documents compartits.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Debats i elabores productes educatius en col·laboració amb altres docents i amb el teu alumnat, utilitzant diverses ferramentes a través dels canals digitals no molt complexes.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ets un usuari habitual d'espais digitals de treball col·laboratiu amb altres docents desenvolupant diferents funcions: creació, gestió i/o participació. Utilitzes amb confiança i proactivitat diverses ferramentes i medis digitals de col·laboració. Estimules i facilites la participació activa en la teua comunitat educativa en espais col·laboratius digitals integrant els mateixos en la seua pràctica docent.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No col·labore ni treball en equip amb altres docents per mig de la tecnologia.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016919  -->
+  <question type="multichoice">
+    <name>
+      <text>08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Comunicació i Col·laboració</h3><p></p><h4>Competència 2.5. Netiqueta</h4><p><br></p><pre>Estar familiaritzat amb les normes de conducta en interaccions en línia o virtuals, estar conscienciat pel que fa a la diversitat cultural, ser capaç de protegir-se a si mateix i a uns altres de possibles perills en línia, desenvolupar estratègies actives para la identificació de les conductes inadequada.<br></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Conèixes les normes bàsiques d'accés i comportament en xarxes socials i de les comunicacions en medis i canals digitals. Tens consciència dels perills i conductes inadequades en internet que poden afectar al teu alumna, i de la necessitat de la prevenció educativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Posseeixes les competències per comunicar-te digitalment seguint i respectant les normes de netiqueta i ets conscient i respetuós amb la diversitat cultural en l'àmbit de la comunicació digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Aplica diversos aspectes de la netiqueta a distints espais i contextos de comunicació digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No conec les normes d'accés o les llicències de la majoria de les aplicacions que utilitze.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016946  -->
+  <question type="multichoice">
+    <name>
+      <text>09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de comunicació i col·laboració</h3><p><br></p><p></p><h4>Competència 2.5. Gestió de la Identitat Digital</h4><p><br></p><pre>Crear, adaptar i gestionar una o diverses identitats digitals, ser capaç de protegir la pròpia reputació digital i de gestionar les dades generats a través dels diversos comptes i aplicacions utilitzades.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Coneixes els beneficis i els riscos relacionats amb la identitat digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Saps crear la teua pròpia identitat digital i rastrejar la teua pròpia petjada digital. Gestiones dades generats en diversos espais, amb diverses comptes, i en diversos canals digitals.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Gestiones diferents identitats digitals en funció del context i de la seua finalitat. Ets capaç de supervisar la informació i les dades que produeixes a través de la teua interacció en línia, i saps com protegir la teua reputació digital i la d'altres.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Comunicació i Col·laboració sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No conec ni els beneficis ni els riscos de la identitat digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016953  -->
+  <question type="multichoice">
+    <name>
+      <text>10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Àrea de creació de Continguts Digitals</h3><p><br></p><h4>Competència 3.1. Desenvolupament de continguts digitals</h4><p><br></p><p>Crear continguts digitals en diferents formats, incloent continguts multimèdia, editar i millorar el contingut de creació propi o aliè, expressar-se creativament a través d'els mitjans digitals i de les tecnologies.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Busques, crees, guardes i edites continguts digitals senzills.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Produeixes continguts digitals en diferents formats utilitzant aplicacions en línia com, per exemple, documents de tex, presentacions multimèdia, disseny d'imatges i gravació de vídeo o àudio.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Crea materials didàctics digitals en línia en una ampla gamma de formats i publica en espais digitals molt variats (en format blog, activitat o exercici interactiu, website, aula virtual, etc.). Desenvolupa projectes educatius digitals en els que fas partícep la comunitat educativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No busque, ni cree, ni guarde continguts digitals senzills.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016956  -->
+  <question type="multichoice">
+    <name>
+      <text>11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Creació de Continguts Digitals</h3><p><br></p><h4>Competència 3.2. Integració i Reelaboració de Continguts Digitals</h4><p><br></p><pre>Modificar, perfeccionar i combinar els recursos existents per crear contingut digital i coneixement nou, original i rellevant.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Ets conscient de que internet és una gegantesca biblioteca de recursos que es poden reutilitzar amb fins educatius. Busques i selecciones recursos i objectes digitals en la xarxa amb fins educatius, els organitzes en un espai digital personal i realitzes modificacions senzilles.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals senzills<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Coneixes i utilitzes repositoris i/o biblioteques de recursos i materials en la xarxa tant de propòsit general com educatiu. Modifiques i adaptes recursos d'altres a les necessitats dels teus alumnes.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals avançats<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Elabores activitats, materials i recursos educatius digitals a partir del reciclatge d'objectius digitals procedents de distints espais en línia.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No busque, no guarde, ni modifique continguts digitals.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1016987  -->
+  <question type="multichoice">
+    <name>
+      <text>12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Creació de Continguts Digitals</h3><p><br></p><h4>Competència 3.3. Drets d'autor i llicències</h4><p><br></p><pre>Entendre com s'apliquen els drets d'autor i les llicències a la informació i als continguts digitals.<br></pre><p><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Ets conscient de que alguns continguts distribuïts en internet tenen drets d'autor. Respectes els drets d'autor.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Coneixes les diferències bàsiques entre llicències i com afecten als continguts digitals. Desenvolupes activitats a l'aula respectant els drets d'autor dels continguts distribuïts per internet.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Coneixes com s'apliquen els diferents tipus de llicències a la 
+informació i als recursos que uses i que crees. Desenvolupes projectes 
+educatius destinats a que l'alumnat publique els seus continguts amb 
+llicències d'accés obert.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sóc conscient de que alguns continguts que trobe per internet tenen drets d'autor.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1017022  -->
+  <question type="multichoice">
+    <name>
+      <text>13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Creació de Continguts Digitals</h3><p><br></p><h4>Competència 3.4. Programació</h4><p><br></p><p></p><pre>Realitzar modificacions en programes informàtics, aplicacions, configuracions, programes, dispositius; entendre els principis de la programació; comprendre què hi ha darrere d'un programa.<br></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Coneix els conceptes i fonaments bàsics de la informàtica i la tecnologia mòbil en educació. Modifiques algunes funcions senzilles de software i d'aplicacions, a nivell de configuració bàsica.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Realitzes diverses modificacions a aplicacions de programació informàtica educativa per adaptar-les a les necessitats d'aprenentatge del teu alumnat el que respecta al pensament computacional.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Modifiques programari de codi obert, tens coneixements avançats dels fonament de programació i escrius codi font. Planifiques i desenvolupes, de mode habitual, projectes educatius que impliquen que el teu alumnat modifique i elabore aplicacions informàtiques, generes jocs i/o crees màquines automàtiques.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Creació de Continguts Digitals sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No conec els fonaments del software en educació ni modifique les seues funcionalitats.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1020242  -->
+  <question type="multichoice">
+    <name>
+      <text>14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Seguretat</h3><p><br></p><h4>Competència 4.1. Protecció de dispositius</h4><p><br></p><pre>Protegir els dispositius i els continguts digitals propis, comprendre els riscos i amenaces en xarxa i conèixer mesures de protecció i seguretat.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Realitzes accions bàsiques (contrasenyes, instal·lació de programes d'antivirus, càrrega de bateries, etc.) de protecció dels distints dispositius digitals que utilitzes. Estableixes mesures de protecció de continguts propis, guardats tant en el teu dispositiu com en línia.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Cerca informació i actualitzes els teus coneixements sobre els perills digitals dels teus dispositius. Gestiona de forma adient les mesures de protecció de la tecnologia utilitzada en la seua pràctica docent i en el procés d'aprenentatge del teu alumnat.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Comprova, revisa i actualitza els dispositius digitals per identificar fallides o vulnerabilitats i buscar les solucions adients. Tens estratègies d'actuació sobre seguretat i protecció de dispositius amb la comunitat educativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No utilitze accions bàsiques de protecció com guardar les contrasenyes a un lloc segur quan navegue per internet.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021105  -->
+  <question type="multichoice">
+    <name>
+      <text>15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Seguretat</h3><p><br></p><h4>Competència 4.2. Protecció de Dades Personals i Identitat Digital<br></h4><p></p><p><br></p><pre>Protecció de informació i dades personals, protecció de la identitat digital, protecció dels continguts digitals, mesures de seguretat i ús responsable i segur de la tecnologia.<br></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Ets conscient de que en entorns en línia pots compartir sols certs tipus d'informació sobre sí mateix i sobre altres.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Saps com protegir la teua privacitat en línia i la dels demés.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Sovint canvies la configuració de privacitat predeterminada dels serveis en línia pare a millorar la protecció de la teua privacitat. Tens coneixements amplis sobre els problemes de privacitat, saps com es recullen i utilitzen les teues dades.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sóc conscient del tipus d'informació que puc compartir en els entorns en línia.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021108  -->
+  <question type="multichoice">
+    <name>
+      <text>16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Seguretat</h3><p><br></p><h4>Competència 4.3. Protecció de la salut</h4><p><br></p><pre>Evitar riscos per a la salut relacionats amb l'ús de la tecnologia pel que fa a física i el benestar psicològic.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Saps que la tecnologia pot afectara la teua salut si s'utilitza malament.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Saps com protegir-te a tu mateix i als altres del ciberacosament.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ets conscient de l'ús correcte de les tecnologia per evitar problemes de salut.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sóc conscient de com pot afectar la tecnologia&nbsp; la meua salut.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021109  -->
+  <question type="multichoice">
+    <name>
+      <text>17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Seguretat</h3><p><br></p><h4>Competència 4.4. Protecció de l'entorn</h4><p><br></p><pre>Tenir en compte l'impacte de les tecnologies sobre el medi ambient.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per participar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Saps com reduir el consum energètic en l'ús dels dispositius digitals i disposes d'informació sobre els problemes mediambientals associats a la seua fabricació, ús i retirada.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Tens opinions informades sobre els aspectes positius i negatius sobre el medi ambient i saps optimitzar la ubicació dels dispositius.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Organitzes estratègies d'ús eficient de dispositius digitals i presa de decisions de compra i retirada adients d'acord amb les activitats educatives que realitzes amb ells.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Seguretat sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No sé reduir l'impacte energètic al meu entorn.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021111  -->
+  <question type="multichoice">
+    <name>
+      <text>18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Resolució de Problemes<br></h3><p><br></p><h4>Competència 5.1. Resolució de problemes tècnics</h4><p><br></p><pre>Identificar possibles problemes tècnics i resoldre'ls (des de la solució de problemes bàsics fins a la solució de problemes més complexos).<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Coneixes les característiques dels dispositius, ferramentes, entorns i serveis digitals que utilitzes de forma habitual al teu treball com a docent i ets capaç d'identificar un problema tècnic explicat amb claredat en què consisteix el mal funcionament.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes senzills<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Resols problemes tècnics no complexes relacionats amb dispositius i entorns digitals habituals en les teues tasques professionals amb l'ajuda d'un manual o informació tècnica disponible.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes avançats<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Tens un coneixement suficientment avançat de les característiques de dispositius, ferramentes i entorns digitals que utilitzes per poder resoldre de forma autònoma els problemes tècnics quan sorgeixen. Ajudes als membres de la comunitat educativa i col·labores amb ells en la resolució de problemes tècnics. Utilitzes espais d'aprenentatge col·laboratius i participes en comunitats per trobar solucions a problemes tècnics.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Com a docent no conec les característiques que solen tenir els dispositius que utilitze, ni sé identificar quan un dispositiu va malament.<br>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021112  -->
+  <question type="multichoice">
+    <name>
+      <text>19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Resolució de Problemes<br></h3><p><br></p><h4>Competència 5.2. Identificació de necessitats i respostes tecnològiques</h4><p><br></p><p></p><pre>Analitzar les pròpies necessitats en termes tant d'ús de recursos, eines com de&nbsp; desenvolupament competencial, assignar possibles solucions a les necessitats detectades, adaptar eines a les necessitats personals i avaluar de forma crítica les possibles solucions i eines digitals.</pre><p></p><p><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Utilitzes algunes ferramentes i recursos digitals per a entendre necessitats d'aprenentatge i resoldre problemes tecnològics relacionats amb el teu treball docent habitual. Prens decisions a l'hora d'escollir una ferramenta digital per a una activitat rutinària docent.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes senzills<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Avalues amb sentit crític les diferents possibilitats que els entorns, ferramentes i serveis digitals ofereixen per resoldre problemes tecnològics relacionats amb el teu treball docent i selecciones la solució més adient a les necessitats en cada moment.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes avançats<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Prens decisions informades a l'hora d'elegir una ferramenta, dispositiu, aplicació, programa o servei per a una tasca amb a qual no estàs familiaritzat. Et mantens informat i actualitzat sobre els nous desenvolupaments tecnològics. Comprenc com funcionen les noves ferramentes i sóc capaç d'avaluar de forma crítica quina ferramenta encaixa millor amb els meus objectius d'aprenentatge.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No utilitze ferramentes digitals per resoldre problemes d'aprenentatge que em trobe al meu entorn.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021115  -->
+  <question type="multichoice">
+    <name>
+      <text>20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Resolució de Problemes<br></h3><p><br></p><h4>Competència 5. Innovació i ús de la tecnologia digital de forma creativa</h4><p><br></p><pre>Innovar utilitzant la tecnologia digital, participar activament en produccions col·laboratives multimèdia i digitals, expressar-se de forma creativa a través de mitjans digitals i de tecnologies, generar coneixement i resoldre problemes conceptuals amb el suport de eines digitals.<br></pre><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per contestar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Saps que es poden utilitzar les tecnologia digitals en la teua llavor professional habitual per buscar solucions alternatives e innovadores que faciliten les tasques d'aprenentatge. En alguna ocasió les utilitzes de forma creativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes senzills<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Utilitzes les tecnologies digitals per a analitzar necessitats en la teua llavor diària, gestionar solucions innovdores, crear productes i participar en projectes creatius, adaptant i complementant de forma dinàmica els medis digitals que ofereix la seua organització per les seues tasques docents, encara que no prenc la iniciativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Coneixes una ampla gamma de formes creatives e innovadores d'utilitzar les tecnologies digitals per a les seues aplicacions en la llavor docent i les actualitzes de forma creativa d'acord amb l'evolució dels medis digitals i les necessitats d'aprenentatge. Participes activament en comunitats de docents què comparteixen iniciatives creatives i innovadores d'ús educatiu dels medis digitals difonent les millors pràctiques i iniciatives en la comunitat educativa.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No cerque solucions alternatives tecnològiques, ni intente desenvolupar una solució tecnològica per a millorar una dificultat en la meua tasca docent.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1021187  -->
+  <question type="multichoice">
+    <name>
+      <text>21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Àrea de Resolució de Problemes<br></h3><p><br></p><h4>Competència 5.4.Identificació de llacunes en la Competència Digital</h4><p><br></p><pre>Comprendre les necessitats de millora i actualització de la pròpia competència, donar suport a altres en el desenvolupament de la seva pròpia competència digital, estar al corrent dels nous desenvolupaments.<br></pre><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Gràcies per participar<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>La teva resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La teva resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La teva resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Identifiques les carències de l'alumnat en l'ús de medis digitals amb fins d'aprenentatge, així com les pròpies en quant a l'ús de tecnologies es refereix.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes senzilla<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="66.66667" format="html">
+      <text><![CDATA[<p>Busca, explora i experimenta amb tecnologies digitals emergents que li ajuden a mantenir-se actualitzat i a cobrir possibles llacunes en la competència digital necessària per a la teua llavor docent i desenvolupament professional.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma avançada<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Organitza el seu propi sistema d'actualització i aprenentatge, realitza canvis i adaptacions metodològiques per la millora continua de l´us educatiu dels medis digitals, que comparteix amb la seua comunitat educativa, recolzant a altres en el desenvolupament de la seua competència digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Resolució de Problemes de forma sàvia<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No identifique les carències de l'alumnat respecte a la seua competència digital.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>No em compromet<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
